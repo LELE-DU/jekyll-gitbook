@@ -6,7 +6,7 @@ permalink: /
 
 Welcome to the homepage of Lele Du!
 
-## Personal information
+### Personal information
 
 - Name: Lele Du.
 - Birth: 06/1994.
@@ -14,7 +14,7 @@ Welcome to the homepage of Lele Du!
 - Gender: Male.
 - Email: dulele@zjnu.edu.cn
 
-## Description
+### Description
 
 My research focuses on
 - Calculus of variations, 
