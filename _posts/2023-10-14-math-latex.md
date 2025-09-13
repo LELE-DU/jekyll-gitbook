@@ -7,8 +7,8 @@ layout: post
 mermaid: true
 ---
 
-* Cambridge English level B2.
-* Italian Language level A2.
+* Cambridge English Level B2.
+* Italian Language Level A2.
 
 
 This jekyll-theme supports [MathJax](https://www.mathjax.org/) to render $\LaTeX$
