@@ -8,6 +8,8 @@ Welcome to the homepage of Lele Du!
 
 ## Personal information
 
+- Name: Lele Du
+- Birth: 06/1994.
 - Nationality: China.
 - Gender: Male.
 - Email: dulele@zjnu.edu.cn
