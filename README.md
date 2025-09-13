@@ -28,6 +28,16 @@ I am interested in the study of nonlocal partial differential equations, includi
 - Integro-differential elliptic equations;
 - nonlocal reaction-diffusion equations.
 
+I undertake a qualitative analysis of solutions such as
+- Existences and nonexistences;
+- Nondegeneracy;
+- symmetry and uniqueness;
+- regularity;
+- Asymptotic behavior.
+
+
+
+
 ## How to Get Started
 
 This theme can be used just as other [Jekyll themes][1] and support [remote theme][12],
