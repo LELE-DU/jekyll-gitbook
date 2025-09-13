@@ -6,7 +6,13 @@ permalink: /
 
 Welcome to the homepage of Lele Du!
 
-## Demo
+## Personal information
+
+- Nationality: China.
+- Gender: Male.
+- Email: dulele@zjnu.edu.cn
+
+## Description
 
 Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
 
