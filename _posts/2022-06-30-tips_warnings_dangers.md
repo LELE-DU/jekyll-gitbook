@@ -6,5 +6,5 @@ category: Jekyll
 layout: post
 ---
 
-* Cambridge English level B2.
-* Italian Language level A2.
+* Cambridge English Level B2.
+* Italian Language Level A2.
