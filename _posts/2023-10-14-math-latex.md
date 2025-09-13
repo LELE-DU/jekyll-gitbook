@@ -1,11 +1,15 @@
 ---
-title: MathJax and LaTeX
+title: Certificates
 author: Tao He
 date: 2023-10-14
 category: Jekyll
 layout: post
 mermaid: true
 ---
+
+* Cambridge English level B2.
+* Italian Language level A2.
+
 
 This jekyll-theme supports [MathJax](https://www.mathjax.org/) to render $\LaTeX$
 and mathematics expressions.
