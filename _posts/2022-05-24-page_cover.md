@@ -12,7 +12,10 @@ layout: post
   * Sapienza Università di Roma, Italy
   * With Prof. Luca Rossi
   * Project: Analytical and geometric aspects of PDEs in population dynamics, mean field games, and multi-agent models.
- <br>
+
+
+
+ 
 * Postdoc, 2023-2024.
   * Department of mathmatics Guido Castelnuovo 
   * Sapienza Università di Roma, Italy
