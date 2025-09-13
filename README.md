@@ -22,17 +22,17 @@ My research in mathematics is concentrated in the field of
 - Nonlinear Analysis; 
 - Elliptic and Parabolic PDEs.
 
-I am interested in the study of nonlocal partial differential equations, including but not limited to the
+I am interested in the study of nonlocal PDEs, including but not limited to the
 - Lane-Emden equations;
 - Choquard equations;
 - Integro-differential elliptic equations;
-- nonlocal reaction-diffusion equations.
+- Nonlocal reaction-diffusion equations.
 
-I undertake a qualitative analysis of solutions such as
+I undertake a qualitative analysis of solutions to PDEs such as
 - Existences and nonexistences;
 - Nondegeneracy;
-- symmetry and uniqueness;
-- regularity;
+- Symmetry and uniqueness;
+- Regularity;
 - Asymptotic behavior.
 
 
