@@ -13,12 +13,13 @@ Welcome to the homepage of Lele Du!
 - Nationality: China.
 - Gender: Male.
 - Email: dulele@zjnu.edu.cn
+- MR Author ID: 1346299.
 
 ### Description
 
 My research focuses on
-- Calculus of variations, 
-- Nonlinear analysis, and the study of 
+- Calculus of Variations. 
+- Nonlinear Analysis. 
 - Elliptic and Parabolic PDEs.
 
 
