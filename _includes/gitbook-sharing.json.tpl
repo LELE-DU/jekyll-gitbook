@@ -3,7 +3,7 @@
 
                 "google": false,
 
-                "github": true,
+               # "github": true,
               {% if site.github_username %}
                 "github_link": "https://github.com/{{ site.github_username }}",
               {% else %}
@@ -26,3 +26,4 @@
 
                 "all": ["facebook", "google", "twitter", "weibo", "instapaper", "github", "telegram"]
             },
+
