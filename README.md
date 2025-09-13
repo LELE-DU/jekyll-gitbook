@@ -17,12 +17,16 @@ Welcome to the homepage of Lele Du!
 
 ### Description
 
-My research focuses on
-- Calculus of Variations. 
-- Nonlinear Analysis. 
+My research in mathematics is concentrated in the field of 
+- Calculus of Variations; 
+- Nonlinear Analysis; 
 - Elliptic and Parabolic PDEs.
 
-
+I am interested in the study of nonlocal partial differential equations, including but not limited to the
+- Lane-Emden equations;
+- Choquard equations;
+- Integro-differential elliptic equations;
+- nonlocal reaction-diffusion equations.
 
 ## How to Get Started
 
