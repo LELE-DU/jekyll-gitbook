@@ -10,6 +10,8 @@ Welcome to the homepage of Lele Du!
 
 ![image](https://github.com/LELE-DU/jekyll-gitbook/blob/master/桌面图片.jpeg)
 
+![image](https://github.com/LELE-DU/jekyll-gitbook/blob/master/桌面图片.png)
+
 ### Personal information
 
 - Name: Lele Du.
