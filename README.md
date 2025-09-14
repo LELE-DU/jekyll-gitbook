@@ -10,7 +10,7 @@ Welcome to the homepage of Lele Du!
 
 ### Personal information
 
-+ image: /assets/gitbook/images/桌面图片.jpg
+cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
 
 - Name: Lele Du.
 - Birth: June, 1994.
