@@ -6,11 +6,9 @@ permalink: /
 
 Welcome to the homepage of Lele Du!
 
-![image](https://github.com/LELE-DU/jekyll-gitbook/blob/master/桌面图片.jpg)
 
-![image](https://github.com/LELE-DU/jekyll-gitbook/blob/master/桌面图片.jpeg)
+![image](https://github.com/LELE-DU/jekyll-gitbook/blob/master/IMG_7097.png)
 
-![image](https://github.com/LELE-DU/jekyll-gitbook/blob/master/桌面图片.png)
 
 ### Personal information
 
