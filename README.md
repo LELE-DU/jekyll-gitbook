@@ -13,6 +13,7 @@ Welcome to the homepage of Lele Du!
 - Nationality: China.
 - Gender: Male.
 - Email: dulele@zjnu.edu.cn
+- Degree: Ph.D in mathematics.
 - MR Author ID: 1346299.
 
 ### Description
