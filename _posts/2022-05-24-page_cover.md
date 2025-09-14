@@ -4,7 +4,7 @@ author: Tao He
 date: 2022-05-24
 category: Jekyll
 layout: post
-# cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
+cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
 ---
 
 * Postdoc, 2024-2025.
