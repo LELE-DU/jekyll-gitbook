@@ -6,6 +6,9 @@ permalink: /
 
 Welcome to the homepage of Lele Du!
 
+![image](https://github.com/LELE-DU/jekyll-gitbook/blob/master/桌面图片.jpg)
+
+
 ### Personal information
 
 - Name: Lele Du.
