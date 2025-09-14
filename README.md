@@ -10,7 +10,7 @@ Welcome to the homepage of Lele Du!
 
 ### Personal information
 
-![image](https://lele-du.github.io/jekyll-gitbook/assets/DU.JPG)
+![image](https://lele-du.github.io/jekyll-gitbook/assets/A.jpg)
 
 - Name: Lele Du.
 - Birth: June, 1994.
