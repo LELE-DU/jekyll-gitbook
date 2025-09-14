@@ -7,8 +7,6 @@ permalink: /
 Welcome to the homepage of Lele Du!
 
 
-![image](https://github.com/LELE-DU/jekyll-gitbook/blob/master/IMG_7097.png)
-
 
 ### Personal information
 
